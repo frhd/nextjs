@@ -45,6 +45,7 @@ const Home = () => (
           </p>
         </a>
       </div>
+      <div>let's see about that instant thing</div>
     </main>
 
     <footer>
